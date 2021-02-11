@@ -1,0 +1,14 @@
+/go/bin/*
+/go/pkg/*
+/go/src/foo/*
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.py
+
+# testing
+/coverage
+
+# production
+/build
