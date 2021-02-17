@@ -1,12 +1,6 @@
 # Description
 
-This is a set of programs designed to make your life easier.
-Either it is a program that outputs the coordinates of your character, or it is a bot that extracts a tree for you.
-Good luck
-
-## Cloning repository:
-
->#### 'git clone https://github.com/GarageMakers/MLMinecraft.git'
+This program will contain an mcpi library specifically for python and Docker containers
 
 # Software
 
@@ -14,15 +8,15 @@ download 'https://adventuresinminecraft.github.io/'
 
 # Start
 
-1) Open minecraft
+1) Download 'adventuresinminecraft' and download repo-files in 'MyAdventures'
 
-2) run the startServer.bat file
+2) Open minecraft 1.12 version
 
-3) Open a network game, 
+3) run the 'startServer.bat' file
 
-4) connect to the address 'localhost'
+4) Open a network game and connect to the address 'localhost'
 
-5) Run the program that you like. For example, HelloMinecraftWorld.py
+5) Run the program that you like. For example, 'HelloMinecraftWorld.py'
 
 
 
